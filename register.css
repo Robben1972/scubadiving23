@@ -1,0 +1,38 @@
+body{
+    background-color: orange;
+}
+.main_menu{
+    display: inline-block;
+    border: black solid;
+    width: 450px;
+    height: 500px;
+    margin: 8% 0 0 35%;
+    background-color: white;
+    border-radius: 5%;
+}
+.main_menu h2{
+    display: inline;
+    margin-left: 25%;
+}
+.input{
+    margin: 20% 0 0 18%;
+}
+.connect .b1{
+    margin: 10% 0 0 30%;
+    width: 150px;
+    height: 40px;
+}
+.login{
+    text-decoration: none;
+    color: black;
+}
+.network{
+    padding-left: 10%;
+}
+.network button{
+    margin-left: 15%;
+}
+.network a{
+    text-decoration: none;
+    color: black;
+}
